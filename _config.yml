@@ -12,7 +12,7 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Name of website
-title: Shivam's Blog
+title: "Shivam's Blog"
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -142,7 +142,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Kolkata"
+timezone: Asia/Kolkata
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
