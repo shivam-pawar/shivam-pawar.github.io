@@ -17,5 +17,6 @@ After this discussion we move towards history of Open Source, Open Source Moveme
 
 ## IRC
 It's a good idea to be always in connect with our seniors and employeed alumni for this purpose our group introduced us about __IRC__ (Internet Relay Chat). I learn how to connect with them, how to messege them and most important thing i.e., how to ask our query to them so that they will help us with appropriate soluation.
+
 Basically, Internet Relay Chat (IRC) is an application layer protocol that facilitates communication in the form of text.
 IRC is mainly designed for group communication in discussion forums, called channels, but also allows one-on-one communication via private messages as well as chat and data transfer, including file sharing.
