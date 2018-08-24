@@ -10,4 +10,5 @@ Hi, I'm __Shivam Pawar__ currently studying at Rajarambapu Institute of Technolo
 There are lots of new students who want to know about open source and our Linux User's Group started a discussion for the same.
 The idea behind this discussion session is to help others while sharing your knowledge with them. This is weekly session, and everyone participate in this by their own interest.
 
-##First Discussion :
+## First Discussion :
+First session started with my classmates and senior. Many of us are new at __RITINLUG Discussion__. Firstly we introduce each to other and begin first discuusion on history of open source.
