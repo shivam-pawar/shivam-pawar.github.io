@@ -2,8 +2,8 @@
 layout: post
 title: Introduction to Open Source.
 #tags: [macOS, mac apps, apple, free mac apps, productivity]
-image: https://news.bitcoin.com/wp-content/uploads/2016/05/open-source-logo.png
-share-img: https://news.bitcoin.com/wp-content/uploads/2016/05/open-source-logo.png
+image: https://camo.githubusercontent.com/d5a27ec89c25ef8b01bb87ce0a5e138e8a21deb8/68747470733a2f2f6172617361746173617967696e2e6769746875622e696f2f6f70656e6c6f676f732f6c6f676f732f726563757273652e6a7067
+share-img: https://camo.githubusercontent.com/d5a27ec89c25ef8b01bb87ce0a5e138e8a21deb8/68747470733a2f2f6172617361746173617967696e2e6769746875622e696f2f6f70656e6c6f676f732f6c6f676f732f726563757273652e6a7067
 ---
 
 Hi! Here is the list of __10 Incredibly Useful macOS Apps__ that you should probably use for enhancing your _macOS_ experience (or I can say it turns you into a superuser) and they are FREE! Yes, free as in free beer. I have been using them for a quite a while now, and I thought they would stand useful for you guys as well.<br>
