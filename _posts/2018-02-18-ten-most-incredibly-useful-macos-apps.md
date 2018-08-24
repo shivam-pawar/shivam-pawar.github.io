@@ -14,3 +14,6 @@ The idea behind this discussion session is to help others while sharing your kno
 First session started with my classmates and senior. Many of us are new at __RITINLUG Discussion__. Firstly we discuss the the meaninig of open source and meaning comes out that a software for which the original source code is made freely available which should be redistributed and modified according to the requirement of the user. Open source software is that by which the source code can be modification or enhancement by anyone for reusability and accessibility.
 
 After this discussion we move towards history of Open Source, Open Source Movement is branched from the free software movement which began in the late 80s with the launching of the GNU project by __Richard Stallman__. Stallman is regarded within the open source community as sharing a key role in the conceptualization of freely shared source code for software development.
+
+## IRC
+It's a good idea to be always in connect with our seniors and employeed alumni for this purpose our group introduced us about __IRC__ (Internet Relay Chat). I learn how to connect with them, how to messege them and most important thing i.e., how to ask our query to them so that they will help us with appropriate soluation.
