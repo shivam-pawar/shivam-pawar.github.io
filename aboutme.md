@@ -14,7 +14,7 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-	I'm Bachelor of Computer science & Engineering and currently a member of <strong>RITINLUG</strong>(RIT India Linux User's Group).
+	I'm Bachelor of Computer science & Engineering and currently a member of <strong>RITINLUG</strong> (RIT India Linux User's Group).
 </p>
 
 <p class="about-text">
