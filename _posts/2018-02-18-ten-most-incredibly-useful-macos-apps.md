@@ -11,4 +11,6 @@ There are lots of new students who want to know about open source and our Linux 
 The idea behind this discussion session is to help others while sharing your knowledge with them. This is weekly session, and everyone participate in this by their own interest.
 
 ## First Discussion :
-First session started with my classmates and senior. Many of us are new at __RITINLUG Discussion__. Firstly we introduce each to other and begin first discuusion on history of open source.
+First session started with my classmates and senior. Many of us are new at __RITINLUG Discussion__. Firstly we discuss the the meaninig of open source and meaning comes out that a software for which the original source code is made freely available which should be redistributed and modified according to the requirement of the user. Open source software is that by which the source code can be modification or enhancement by anyone for reusability and accessibility.
+
+After this discussion we move towards history of Open Source, Open Source Movement is branched from the free software movement which began in the late 80s with the launching of the GNU project by __Richard Stallman__. Stallman is regarded within the open source community as sharing a key role in the conceptualization of freely shared source code for software development.
