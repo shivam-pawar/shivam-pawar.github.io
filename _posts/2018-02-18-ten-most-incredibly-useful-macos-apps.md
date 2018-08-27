@@ -20,5 +20,5 @@ It's a good idea to be always in connect with our seniors and employeed alumni f
 
 Basically, Internet Relay Chat (IRC) is an application layer protocol that facilitates communication in the form of text.
 IRC is mainly designed for group communication in discussion forums, called channels, but also allows one-on-one communication via private messages as well as chat and data transfer, including file sharing.
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](/home/auspicious_sp/Downloads/first.jpeg)
 
