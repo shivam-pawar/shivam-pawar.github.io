@@ -1,3 +1,11 @@
+---
+layout: post
+title: Journey of Friendship.
+#tags: [friend, friendships, behaviour]
+image: https://camo.githubusercontent.com/d5a27ec89c25ef8b01bb87ce0a5e138e8a21deb8/68747470733a2f2f6172617361746173617967696e2e6769746875622e696f2f6f70656e6c6f676f732f6c6f676f732f726563757273652e6a7067
+share-img: https://camo.githubusercontent.com/d5a27ec89c25ef8b01bb87ce0a5e138e8a21deb8/68747470733a2f2f6172617361746173617967696e2e6769746875622e696f2f6f70656e6c6f676f732f6c6f676f732f726563757273652e6a7067
+---
+
 Friendship is really a precious thing from God and I'm thankful for the friends that God given me to impact me as I've walked these 16 to 18 years.
 When we meet a person who understand you, laugh with you, make life easier, and pray for you, yes for obvious, you found a dear friend.
 
